@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: |cff33ff99Worldforged Logger|r
+## Notes: Logs looted Worldforged items (item ID, map, coordinates) in its own database so you can add missing ones to LootCollector. Table + export in the Interface options.
+## Author: Paddy
+## Version: 1.0.0
+## SavedVariables: WorldforgedLoggerDB
+## OptionalDeps: LootCollector
+
+Core.lua
+UI.lua
